@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Aleksey Volgankin](https://up.htmlacademy.ru/htmlcss-individual/3/user/235809).
-* Наставник: `Неизвестно`.
+* Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
 
 ---
 
