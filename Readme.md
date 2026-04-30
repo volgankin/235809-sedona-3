@@ -2,6 +2,7 @@
 
 * Студент: [Aleksey Volgankin](https://up.htmlacademy.ru/htmlcss-individual/3/user/235809).
 * Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
+* Сайт: [Мой проект "Седона"](https://volgankin.github.io/235809-sedona-3/)
 
 ---
 
