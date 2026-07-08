@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Aleksey Volgankin](https://up.htmlacademy.ru/htmlcss-individual/3/user/235809).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/id85590).
+* Сайт: [Мой проект "Седона"](https://volgankin.github.io/235809-sedona-3/).
 
 ---
 
