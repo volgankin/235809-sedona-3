@@ -1,0 +1,288 @@
+@font-face {
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../font/ptsans-400.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../font/ptsans-700.woff2") format("woff2");
+}
+
+body {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #333;
+  line-height: 117%;
+  background-color: #fff;
+}
+
+.button {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  color: #fff;
+  line-height: 125%;
+  background-color: #756157;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.button-blue {
+  color: #fff;
+  background-color: #82b3d3;
+}
+
+.button-in-favorites {
+  background-color: #7db54f;
+}
+
+.button-reset {
+  background: none;
+}
+
+.page-header {
+  color: #000;
+  background-color: #fff;
+}
+
+.navigation-list {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.navigation-link {
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  background-color: #37698a;
+  background-image: url("../images/background/divider.svg"), url("../images/background/index-background.jpg");
+  background-position: bottom, center;
+  background-repeat: no-repeat;
+  background-size: 100% auto, cover;
+}
+
+.features {
+  text-align: center;
+}
+
+.features-title {
+  font-size: 30px;
+  line-height: 120%;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.features-text {
+  font-size: 22px;
+  line-height: 118%;
+}
+
+.features-item-container {
+  background-color: #82b3d3;
+}
+
+.features-list li:nth-child(2),
+.features-list li:nth-child(4) {
+  background-color: rgba(131, 179, 211, 0.12);
+}
+
+.features-list li:nth-child(3) {
+  background-color: rgba(131, 179, 211, 0.2);
+}
+
+.features-item-title {
+  font-size: 24px;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.features-item-text {
+  color: #333;
+}
+
+.features-item-container h3 {
+  color: #fff;
+}
+
+.features-item-container p {
+  color: #fff;
+}
+
+.service-title {
+  font-size: 30px;
+  text-align: center;
+  color: #000;
+  line-height: 120%;
+  text-transform: uppercase;
+}
+
+.service-text {
+  font-size: 22px;
+  text-align: center;
+  line-height: 118%;
+}
+
+.service-list {
+  text-align: center;
+}
+
+.service-list li:nth-child(1),
+.service-list li:nth-child(3) {
+  background-color: rgba(131, 179, 211, 0.12);
+}
+
+.service-item-title {
+  font-size: 24px;
+  color: #000;
+  text-transform: uppercase;
+  line-height: 117%;
+}
+
+.search {
+  text-align: center;
+}
+
+.search-title {
+  font-size: 24px;
+  color: #000;
+  line-height: 120%;
+  text-transform: uppercase;
+}
+
+.search-text {
+  font-size: 22px;
+  line-height: 118%;
+}
+
+.search-button {
+  font-size: 20px;
+  line-height: 180%;
+}
+
+.newsletter {
+  text-align: center;
+}
+
+.newsletter-background {
+  color: #fff;
+  background-color: #37698a;
+  background-image: url("../images/background/subscribe.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.newsletter-title {
+  font-size: 30px;
+  line-height: 120%;
+  text-transform: uppercase;
+}
+
+.newsletter-text {
+  font-size: 22px;
+  line-height: 118%;
+}
+
+.newsletter-email {
+  background-color: #82B3D3;
+}
+
+.footer-contacts-address a {
+  font-size: 40px;
+  font-style: normal;
+  color: #000;
+  line-height: 100%;
+  text-transform: uppercase;
+}
+
+/*---CATALOG.HTML---*/
+
+.catalog-background {
+  color: #fff;
+  background-color: #37698a;
+  background-image: url("../images/background/filter.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.inner-header-title {
+  font-size: 60px;
+  line-height: 130%;
+}
+
+.breadcrumbs-link {
+  font-size: 16px;
+  color: #fff;
+  line-height: 131%;
+  text-decoration: none;
+}
+
+.catalog-filter-title {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 120%;
+  text-transform: capitalize;
+}
+
+.catalog-filter label {
+  line-height: 128%;
+}
+
+.result-serch {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 120%;
+  text-transform: uppercase;
+}
+
+.select-control {
+  font-family: inherit;
+  font-size: 18px;
+  color: #333;
+  line-height: 117%;
+}
+
+.catalog-link {
+  text-decoration: none;
+}
+
+.catalog-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #333;
+  line-height: 117%;
+}
+
+.catalog-rating {
+  font-size: 16px;
+  line-height: 125%;
+  text-transform: uppercase;
+}
+
+.pagination-link {
+  font-weight: 700;
+  font-size: 20px;
+  color: #fff;
+  line-height: 180%;
+  background-color: #82b3d3;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.pagination-current {
+  color: #000;
+  background-color: #f2f2f2;
+}
